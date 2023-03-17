@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <
+<p style="font-size:11px">Page temp
 
