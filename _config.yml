@@ -1,12 +1,13 @@
 title: Nur Kholifah # your name (or website title) here
 logo: "pictures.png?raw=true" # your photo (or logo) here
+<p align="center"> <a href="https://www.linkedin.com/in/nur-kholifah-9581bb215">LinkedIn</a> | <a href="https://github.com/khlfh">GitHub</a></p>
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a undergraduate student majoring in Mathematics and focusing on Statistics
   <br><br>
   Currently, I'm developing my statistical skills by learning data science
   <br><br>
-  <p align="center"> <a href="https://www.linkedin.com/in/nur-kholifah-9581bb215">LinkedIn</a> | <a href="https://github.com/khlfh">Github</a></p>
-
+  
   
 
 theme: jekyll-theme-minimal
