@@ -13,7 +13,7 @@ In this project, me and my team make a poster that include insurance premiums fo
 
 <center><img src="poster.png"/></center>
 
-
+---
 ## Data Analytics Learning Path-Zenius
 
 ### Default Risk Prediction
@@ -25,7 +25,7 @@ This is a final project which contains default risk prediction. We use statistic
 
 <center><img src="finpro.png"/></center>
 
-
+---
 ## Water Feasibility Prediction-Competition by Gammafest 2023
 
 
