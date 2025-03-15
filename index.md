@@ -12,6 +12,7 @@ This is my first competition using machine learning to make water feasibility pr
 
 <center><img src="gammafest.png"/></center>
 
+---
 ## Data Analytics Learning Path-Zenius
 
 ### Default Risk Prediction
